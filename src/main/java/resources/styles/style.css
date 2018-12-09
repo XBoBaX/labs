@@ -1,0 +1,6 @@
+.button {
+    -fx-font-weight: bold;
+    -fx-background-color: #3498db;
+    -fx-text-fill: white;
+    -fx-font-size: 18;
+}
